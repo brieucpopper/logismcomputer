@@ -1,5 +1,9 @@
-This project was inspired by a book that explains how to build a CPU and then a programmable computer (with memory...) from the most basic components.
+# The project
 
-It was very exciting and I learned a lot along my way understanding and building this architecture and even implemented a program to calculate the Fibonacci sequence on this custom computer.
+This project was inspired by a book that explains how to build a CPU and then a programmable computer (with memory...) from the most basic components. The book's name is "The Elements of Computing Systems: Building a Modern Computer from First Principles", and https://www.nand2tetris.org/ provides a brief overview of a possible angle for a project
+<br>
+I chose to implement my own version in a program named Logisim Evolution (https://github.com/logisim-evolution/logisim-evolution) and once I completed this programmable computer (after designing the instructions, the CPU with its ALU, the program counter, the RAM...) I made it calculate the Fibonacci's sequence.
 
-The program opens in Logisim Evolution and is based on the book "The Elements of Computing Systems: Building a Modern Computer from First Principles"
+# My conclusions
+
+This project was really one of my all time favorite projects as you finally completely and thoroughly understand how computers work and it's really rewarding to work though this.
