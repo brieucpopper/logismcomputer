@@ -11,9 +11,13 @@ I chose to implement my own version in a program named Logisim Evolution (https:
 
 https://user-images.githubusercontent.com/102361078/216849975-7ffc2a77-1379-4597-b192-e01fbbab28c6.mov
 
+In the above video you can see multiple parts of the computer, with the ROM on the right containing the instructions for the CPU to calculate the Fibonacci's sequence in the RAM, you can also see two registers (A and D), and multiple connections, inputs and outputs of different parts. <br>
+You can read the book and run this file locally in Logisim Evolution (just open the .circ) for more details
 
 
 https://user-images.githubusercontent.com/102361078/216849993-0bda0fc9-0d6e-4077-a1c9-e56656cfa62d.mov
+
+In this video some other parts of the computer are shown.
 
 
 
